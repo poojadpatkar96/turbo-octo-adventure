@@ -1,1 +1,2 @@
-printf(pooja)
+print(pooja)
+12345
